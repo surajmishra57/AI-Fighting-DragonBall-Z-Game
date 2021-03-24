@@ -1,0 +1,28 @@
+[ax1,ax2,aw1,aw2,ay1,ay2]
+[aw3,aw4,ay3,ay4]
+[ax3,ax4,ay4]
+
+
+
+3,13,14
+
+
+
+0=Z
+1=Q
+2=R
+3=W
+4=N
+5=T
+6=U
+7=V
+
+9=P
+10=S
+11=M
+12=O
+
+8 = AX1 AX2 AW1 AW2 AY1 AY2
+
+13=AW3 AW4 AY3 AY4
+14=AX3 AX4 AY4
