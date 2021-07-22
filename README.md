@@ -4,5 +4,8 @@
 ![f3](https://user-images.githubusercontent.com/52094235/112287063-f99f5180-8cb1-11eb-87fb-ae06a715d4c3.png)
 ![f4](https://user-images.githubusercontent.com/52094235/112287070-fb691500-8cb1-11eb-9720-64f0a31961d0.png)
 ![f5](https://user-images.githubusercontent.com/52094235/112287080-fd32d880-8cb1-11eb-97cf-8576f2f379d3.png)
-![Uploading f6.png…]()
+![f6](https://user-images.githubusercontent.com/52094235/126619583-bbddb1c0-f2a0-4e2b-9a64-7a5465668613.png)
+
+
+
 
